@@ -1,6 +1,9 @@
 # Semaforo-Carros-Peaton-Potenciometro
+
 Materia:SISTEMAS PROGRAMABLES
+
 Asesoria:ING. LEVY ROJAS CARLOS RAFAEL
+
 Nombre:Ricardo Santana Mora Montiel  Horario: 8:45 a 10:25 Martes y Jueves
 
 1. Descripción En este proyecto se controlará con una tarjeta Arduino un semáforo para automóviles y peatones.
